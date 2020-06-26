@@ -1,0 +1,12 @@
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/bin/Debug/netcoreapp3.0/PS-Project-Model.deps.json
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/bin/Debug/netcoreapp3.0/PS-Project-Model.dll
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/bin/Debug/netcoreapp3.0/PS-Project-Model.pdb
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/bin/Debug/netcoreapp3.0/PS-Project-Persistence.dll
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/bin/Debug/netcoreapp3.0/PS-Project-Persistence.pdb
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/obj/Debug/netcoreapp3.0/PS-Project-Model.csprojAssemblyReference.cache
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/obj/Debug/netcoreapp3.0/PS-Project-Model.csproj.CoreCompileInputs.cache
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/obj/Debug/netcoreapp3.0/PS-Project-Model.AssemblyInfoInputs.cache
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/obj/Debug/netcoreapp3.0/PS-Project-Model.AssemblyInfo.cs
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/obj/Debug/netcoreapp3.0/PS-Project-Model.csproj.CopyComplete
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/obj/Debug/netcoreapp3.0/PS-Project-Model.dll
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/obj/Debug/netcoreapp3.0/PS-Project-Model.pdb

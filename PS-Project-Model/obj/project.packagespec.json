@@ -1,0 +1,82 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/PS-Project-Model.csproj",
+    "projectName": "PS-Project-Model",
+    "projectPath": "/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/PS-Project-Model.csproj",
+    "outputPath": "/Users/gvbox/RiderProjects/PS-Project/PS-Project-Model/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "/Users/gvbox/RiderProjects/PS-Project/PS-Project-Persistence/PS-Project-Persistence.csproj": {
+            "projectPath": "/Users/gvbox/RiderProjects/PS-Project/PS-Project-Persistence/PS-Project-Persistence.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "AutoMapper": {
+          "target": "Package",
+          "version": "[8.0.0, )"
+        },
+        "BCrypt.Net-Core": {
+          "target": "Package",
+          "version": "[1.6.0, )"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[10.0.1, )"
+        },
+        "System.IdentityModel.Tokens.Jwt": {
+          "target": "Package",
+          "version": "[6.5.1, )"
+        },
+        "iTextSharp": {
+          "target": "Package",
+          "version": "[5.5.13.1, )"
+        },
+        "itextsharp.xmlworker": {
+          "target": "Package",
+          "version": "[5.5.13.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+        <RootNamespace>PS_Project_Model</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\PS-Project-Persistence\PS-Project-Persistence.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="8.0.0" />
+      <PackageReference Include="BCrypt.Net-Core" Version="1.6.0" />
+      <PackageReference Include="iTextSharp" Version="5.5.13.1" />
+      <PackageReference Include="itextsharp.xmlworker" Version="5.5.13.1" />
+      <PackageReference Include="Newtonsoft.Json" Version="10.0.1" />
+      <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.5.1" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Persistence/bin/Debug/netcoreapp3.0/PS-Project-Persistence.deps.json
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Persistence/bin/Debug/netcoreapp3.0/PS-Project-Persistence.dll
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Persistence/bin/Debug/netcoreapp3.0/PS-Project-Persistence.pdb
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Persistence/obj/Debug/netcoreapp3.0/PS-Project-Persistence.csprojAssemblyReference.cache
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Persistence/obj/Debug/netcoreapp3.0/PS-Project-Persistence.csproj.CoreCompileInputs.cache
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Persistence/obj/Debug/netcoreapp3.0/PS-Project-Persistence.AssemblyInfoInputs.cache
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Persistence/obj/Debug/netcoreapp3.0/PS-Project-Persistence.AssemblyInfo.cs
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Persistence/obj/Debug/netcoreapp3.0/PS-Project-Persistence.dll
+/Users/gvbox/RiderProjects/PS-Project/PS-Project-Persistence/obj/Debug/netcoreapp3.0/PS-Project-Persistence.pdb
